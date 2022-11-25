@@ -1,4 +1,4 @@
-const apiUrl = 'http://www.omdbapi.com/?apikey=174658a8'
+const apiUrl = 'https://api.tvmaze.com/search/shows?q= '
 const IMGPATH = "https://image.tmdb.org/t/p/w1280";
 const SEARCHAPI =
     "https://api.themoviedb.org/3/search/movie?&api_key=04c35731a5ee918f014970082a0088b1&query=";
